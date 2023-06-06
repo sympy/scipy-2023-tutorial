@@ -1,0 +1,4 @@
+sympy==1.12
+jupyter
+numpy
+matplotlib
