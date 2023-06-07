@@ -7,11 +7,26 @@ Tutorial materials for SciPy 2023
 
 The SymPy tutorial requires Python 3.9 or greater (3.11 is recommended). There
 is a file `requirements.txt` in this repository that lists all the
-dependencies that need to be installed to run the tutorial materials.
+dependencies that need to be installed to run the tutorial materials. You can
+install the dependencies with conda
+
+```py
+conda create -n sympy-tutorial --file requirements.txt
+conda activate sympy-tutorial
+```
+
+or pip
+
+```
+pip install -r requirements.txt
+```
+
 Importantly, make sure you have the *latest* version of SymPy (1.12), and are
 able to run Jupyter notebooks. The requirements file additionally includes
 some optional dependencies which are used in some parts of the tutorial such
-as `numpy` and `matplotlib`
+as `numpy` and `matplotlib`. These dependencies are not used for the majority
+of the tutorial but if you do not have them you may not be able to complete
+some of the later sections.
 
 To start the tutorial, run `jupyter notebook` (or `jupyter lab`), and start
 with `Intro.ipynb`. If you are able to execute that notebook without any
