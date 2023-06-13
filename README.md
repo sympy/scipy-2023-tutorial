@@ -5,6 +5,12 @@ Tutorial materials for SciPy 2023
 
 # Installation Instructions
 
+Clone this repository to get the tutorial materials:
+
+```
+git clone https://github.com/sympy/scipy-2023-tutorial.git
+```
+
 The SymPy tutorial requires Python 3.9 or greater (3.11 is recommended). There
 is a file `requirements.txt` in this repository that lists all the
 dependencies that need to be installed to run the tutorial materials. You can
