@@ -21,5 +21,7 @@
 *.acn
 *.acr
 *.alg
+*.fdb_latexmk
+*.fls
 
 .DS_Store
