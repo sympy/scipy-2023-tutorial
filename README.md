@@ -35,5 +35,4 @@ of the tutorial but if you do not have them you may not be able to complete
 some of the later sections.
 
 To start the tutorial, run `jupyter notebook` (or `jupyter lab`), and start
-with `Intro.ipynb`. If you are able to execute that notebook without any
-errors, you have all the required dependencies.
+with `tutorials/00-Index.ipynb`.
