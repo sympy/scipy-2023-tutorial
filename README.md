@@ -37,11 +37,3 @@ some of the later sections.
 To start the tutorial, run `jupyter notebook` (or `jupyter lab`), and start
 with `Intro.ipynb`. If you are able to execute that notebook without any
 errors, you have all the required dependencies.
-
-The tutorial materials will also be available online using
-[JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) which can run
-entirely in your browser without installing any dependencies. However, it is
-**highly** recommended that you also install all the required dependencies
-locally before attending the tutorial, as JupyterLite will not function if
-there are internet issues on the day of the tutorial (this has happened in the
-past).
