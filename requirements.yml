@@ -1,0 +1,10 @@
+name: sympy-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - sympy=1.12
+  - jupyter
+  - numpy
+  - matplotlib
+  - scipy
