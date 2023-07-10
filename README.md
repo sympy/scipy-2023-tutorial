@@ -34,5 +34,5 @@ as `numpy` and `matplotlib`. These dependencies are not used for the majority
 of the tutorial but if you do not have them you may not be able to complete
 some of the later sections.
 
-To start the tutorial, run `jupyter notebook` (or `jupyter lab`), and start
+To start the tutorial, run `jupyter lab` (or `jupyter notebook`), and start
 with `tutorials/00-Index.ipynb`.
