@@ -1,5 +1,6 @@
 sympy==1.12
 jupyter
+jupyterlab
 numpy
 matplotlib
 scipy

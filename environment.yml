@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
+  - jupyterlab
