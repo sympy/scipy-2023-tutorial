@@ -17,7 +17,7 @@ dependencies that need to be installed to run the tutorial materials. You can
 install the dependencies with conda
 
 ```py
-conda env create --file requirements.yml
+conda env create --file environment.yml
 conda activate sympy-tutorial
 ```
 
